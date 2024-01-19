@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edwatanabe
 - 👀 I’m interested in software livre, linux, shell linux
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning R language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me edwatanabe@gmail.com
 
