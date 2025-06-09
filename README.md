@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @edwatanabe
-- 👀 I’m interested in software livre, linux, shell linux
-- 🌱 I’m currently learning HTML 5
-- 💞️ I’m looking to collaborate on ...
+- 👋 Oi, Eu sou @edwatanabe
+- 👀 Eu tenho interesse em software livre, linux, redes, shellscript, segurança da informação e programação em geral
+- 🌱 Atualmente estou aprendendo HTML5, CSS, Javascript
+- 💞️ Estou procurando colaborar em...
 - 📫 How to reach me edwatanabe@gmail.com
 
 <!---
